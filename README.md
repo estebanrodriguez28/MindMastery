@@ -1,1 +1,1 @@
-# MindRefine
+# MindMastery
