@@ -4,4 +4,4 @@ MindMastery is native android app that aims to reframe a persons negative though
 
 ## Step 1: Click the add button on home screen to create a new thought
 
-![Screen Shot 2023-12-28 at 3 14 36 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/1c7a8543-14dc-473a-87cb-8720174c62a7)
+![HomeScreen](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/0d0b7ce0-8391-4a95-9acb-078be7e798e7)
