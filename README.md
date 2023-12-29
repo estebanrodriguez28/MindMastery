@@ -49,3 +49,7 @@ MindMastery is native android app that aims to reframe a persons negative though
 
 ![Screen Shot 2023-12-29 at 12 25 47 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/7f4e74ed-2ca4-4d5a-837b-6941a84f3818)
 
+### You can add as many thought bubbles as you want by following steps 1 - 5 
+
+![Screen Shot 2023-12-29 at 12 27 51 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/df23d8f1-3c77-4327-a34b-51739534f83e)
+
