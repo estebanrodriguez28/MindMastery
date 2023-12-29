@@ -19,5 +19,4 @@ MindMastery is native android app that aims to reframe a persons negative though
 
 ## Step 4: Enter a thought that reframes the old thought into a newer healthier version of the old thought
 
-![Screen Shot 2023-12-29 at 12 24 11 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/91c1c2fb-99e3-42c9-9e5f-c69141beff57)
-![Screen Shot 2023-12-29 at 12 24 43 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/8bbb1395-e673-47b9-8858-60fb17640b5f)
+![Screen Shot 2023-12-29 at 12 24 11 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/91c1c2fb-99e3-42c9-9e5f-c69141beff57)![Screen Shot 2023-12-29 at 12 24 43 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/8bbb1395-e673-47b9-8858-60fb17640b5f)
