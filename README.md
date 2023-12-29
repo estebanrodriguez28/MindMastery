@@ -53,3 +53,28 @@ MindMastery is native android app that aims to reframe a persons negative though
 
 ![Screen Shot 2023-12-29 at 12 27 51 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/df23d8f1-3c77-4327-a34b-51739534f83e)
 
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Android Studio](https://developer.android.com/studio) installed
+- [Kotlin](https://kotlinlang.org/docs/getting-started.html) installed
+- (Any other dependencies specific to your project)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/estebanrodriguez28/MindMastery.git
+   cd MindMastery
+
+### Running
+
+1. Open the project in Android Studio
+2. Build the project: Click on the "Build" in the top menu then select "Build Project"
+3. Run the app on an emulator or physical device : Click on the "Run" button in Android Studio then choose your target device and click "OK"
+
