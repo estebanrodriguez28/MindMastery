@@ -37,7 +37,9 @@ MindMastery is native android app that aims to reframe a persons negative though
 
 ![Screen Shot 2023-12-29 at 12 26 06 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/59ff49ce-0067-4623-b2ee-ce4e41ac3b9f)
 
+#### Here is an example after pressing the button several times, the box and text get bigger for the new thought and they get smaller for the old thought
 
+![Screen Shot 2023-12-29 at 12 26 20 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/4b3dc22a-b9fa-4fcc-a20c-b6a82adaba03)
 
 ### If you click on the edit icon then you can change the title or the old or new thought
 
