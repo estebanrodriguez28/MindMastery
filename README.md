@@ -25,5 +25,8 @@ MindMastery is native android app that aims to reframe a persons negative though
 
 ![Screen Shot 2023-12-29 at 12 24 57 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/07de0be0-cd7a-48a2-aa52-6ad68deaf8a8)
 
-### Now the thought you just created will be displayed on the home screen
+### Now the thought you just created will be displayed with the title on the home screen
 ![Screen Shot 2023-12-29 at 12 25 16 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/f4d87c83-b53e-43d6-b0a6-dc707fd9c9fc)
+
+### When you click on the thought it will expand and show the thoughts you entered in addition to the title and three different options: delete, edit, and practice
+![Screen Shot 2023-12-29 at 12 25 30 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/813900fe-920c-4f16-8daf-8b02f37e8047)
