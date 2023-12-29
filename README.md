@@ -41,7 +41,7 @@ MindMastery is native android app that aims to reframe a persons negative though
 
 ![Screen Shot 2023-12-29 at 12 26 20 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/4b3dc22a-b9fa-4fcc-a20c-b6a82adaba03)
 
-#### If you hit save after making the changes in the practice the thought bubble in the homse screen will change to reflect the changes i.e. the text will change to be either bigger or smaller in the thought bubble. If you hit the practice icon again the changes will also be saved and you can pick up where you left off.
+#### If you hit save after making the changes in the practice the thought bubble in the home screen will change to reflect the changes i.e. the text will change to be either bigger or smaller in the thought bubble. If you hit the practice icon again the changes will also be saved and you can pick up where you left off.
 
 ![Screen Shot 2023-12-29 at 12 26 37 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/971367c2-ae67-4d7a-85df-41f1c3367c09)
 
