@@ -9,3 +9,4 @@ MindMastery is native android app that aims to reframe a persons negative though
 ## Step 2: Give your thought a title
 
 ![Screen Shot 2023-12-29 at 12 22 03 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/7c673f7b-a0c9-4b8c-97be-f55d9ce1f330)
+![Screen Shot 2023-12-29 at 12 23 01 PM](https://github.com/estebanrodriguez28/MindMastery/assets/114773169/2be99b85-e239-43fb-8918-07a0749fb368)
